@@ -7,3 +7,4 @@ It consists of:
    * First Come First Serve(FCFS)
    * Shortest Job First(SJF)
    * Round Robbin(RR)
+   * Producer Consumer problem using Semaphores
