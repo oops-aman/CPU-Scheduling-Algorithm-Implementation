@@ -8,8 +8,12 @@ It consists of:
    * Shortest Job First(SJF)
    * Round Robbin(RR)
    * Memory Allocation Techniques
-      i.   First Fit
-      ii.  Best Fit
-      iii. Worst Fit
+      - First Fit
+      - Best Fit
+      - Worst Fit
    * Producer and Consumer problem using semaphores
    * Banker's Algorithm
+   * Page Replacement Algorithms
+      - FIFO
+      - LRU
+      - Optimal
